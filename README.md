@@ -11,3 +11,7 @@ I enjoyed creating the live updating clock that shows hours, minutes, and second
 ## What would you add next if you had more time?
 
 I would add options to switch between 12-hour and 24-hour formats, include a date display, and maybe add an alarm feature to make it more functional.
+
+## Demo Video
+
+Watch the digital clock in action here: [Demo Video](https://drive.google.com/file/d/1QtokmwNJK2WJqEBWI7jcW5-t7tqImPiS/view?usp=drive_link)
